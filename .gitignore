@@ -1,7 +1,12 @@
 *.pyc
+.*
 
-.idea
+coverage.xml
 
 /build/
 /dist/
+/env/
+/htmlcov/
 /*.egg-info/
+
+!.gitignore
